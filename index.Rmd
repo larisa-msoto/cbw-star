@@ -1,5 +1,5 @@
 --- 
-title: "[Name of Workshop][Year]"
+title: "How to become a star 2025"
 author: "Instructors: [list instructor names here]"
 date: "[Insert dates of the workshop]"
 site: bookdown::bookdown_site
